@@ -1,8 +1,0 @@
-version: 2
-
-sources:
-  - name: snowflake_learning_db
-    database: SNOWFLAKE_LEARNING_DB
-    schema: PUBLIC
-    tables:
-      - name: employees
